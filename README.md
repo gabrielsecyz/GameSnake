@@ -11,7 +11,7 @@
 pip install pygame
 ```
 ```
-git clone https://gabrielsecyz/GameSnake.git
+git clone https://gabrielsecyz/GameSnake
 ```
 ```
 cd GameSnake
