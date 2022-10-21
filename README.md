@@ -2,7 +2,7 @@
 
 ### a simple and offline game made in python
 
-## 1. Installation
+## Installation
 
 ### requirements
 - Python 3
